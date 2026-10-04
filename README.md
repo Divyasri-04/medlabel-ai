@@ -20,7 +20,7 @@ Users can also ask questions about the information extracted from the label.
 
 ## 🚀 Live Demo
 
-[Open MedLabel AI](YOUR_STREAMLIT_LINK_HERE)
+https://medlabel-ai-bxnrjenqvc9docirwjkntm.streamlit.app/
 
 ## 🛠️ Technologies Used
 
